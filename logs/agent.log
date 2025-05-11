@@ -1,0 +1,35 @@
+INFO:root:Routed to RAG pipeline for query: 'Flipkart'
+INFO:root:Routed to calculator for query: 'calculate 80 + 20'
+INFO:root:Routed to dictionary for query: 'define Physics wallah'
+INFO:root:Routed to RAG pipeline for query: ' Physics wallah'
+INFO:root:Routed to dictionary for query: 'define AI'
+INFO:root:Routed to RAG pipeline for query: 'retrieve JIO'
+INFO:root:Routed to RAG pipeline for query: 'JIO'
+INFO:root:Routed to calculator for query: 'Calculate 80 + 20'
+INFO:root:Routed to calculator for query: 'Calculate 80 + 20'
+INFO:root:Routed to calculator for query: 'calculate 80 -1'
+INFO:root:Routed to calculator for query: 'calculate 80 - 1'
+INFO:root:Routed to calculator for query: 'calculate 80 + 20'
+INFO:root:Routed to RAG pipeline for query: 'JIO'
+INFO:root:Routed to dictionary for query: 'Define AI'
+INFO:root:Routed to dictionary for query: 'Define Data Science'
+INFO:root:Routed to dictionary for query: 'Define Jump'
+INFO:root:Routed to dictionary for query: 'define Intelligent'
+INFO:root:Routed to dictionary for query: 'Define Intelligent'
+INFO:root:Routed to dictionary for query: 'define Intelligent'
+INFO:root:Routed to dictionary for query: 'define  AI'
+INFO:root:Routed to dictionary for query: 'define  Artificial Intelligence'
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+INFO:root:Routed to calculator for query: 'calculate 80 + 20'
+INFO:root:Routed to calculator for query: 'calculate 80 + 20'
+INFO:root:Routed to RAG pipeline for query: 'JIO'
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+INFO:root:Routed to calculator for query: 'calculate 80 + 20'
+INFO:root:Routed to RAG pipeline for query: 'cJIO'
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+INFO:root:Routed to calculator for query: 'calculate 65 +35'
+INFO:root:Routed to dictionary for query: 'define Ready'
+INFO:root:Routed to calculator for query: 'calculate 80 + 20'
